@@ -1,0 +1,240 @@
+  
+  body{
+
+    background-color: rgb(114, 208, 231);
+    padding:0;
+    margin:0;
+    position: absolute;
+
+  }
+  
+
+
+h1 {
+    
+    color: white;
+    text-shadow: 2px 2px 2px rgba(119, 119, 119, 0.432);
+    font-size: 40px;
+    font-family: sans-serif;
+    position: absolute;
+    margin-top: 20px;
+    padding-left: 95px;
+    width: 150px;
+   
+}
+
+
+
+#home {
+    font-size: 40px;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 20px;
+    width: 60px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:rgb(114, 208, 231);
+    border-style: solid;
+    border-width: 3px;
+
+}
+
+#home:active {
+
+    background-color:rgb(159, 222, 238)
+   
+}
+
+#essay {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 130px;
+    position: absolute;
+    margin-left: 20px;
+    width: 230px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:rgb(114, 208, 231);
+    border-style: solid;
+    border-width: 3px;
+   
+}
+
+#essay:active {
+
+    background-color:rgb(159, 222, 238)
+}
+
+#summary {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 20px;
+    width: 230px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:rgb(114, 208, 231);
+    border-style: solid;
+    border-width: 3px;
+}
+
+#summary:active {
+
+    background-color:rgb(159, 222, 238)
+}
+
+#analyze {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 20px;
+    width: 230px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:rgb(114, 208, 231);
+    border-style: solid;
+    border-width: 3px;
+}
+
+#analyze:active {
+
+    background-color:rgb(159, 222, 238)
+}
+
+#presentation {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 340px;
+    position: absolute;
+    margin-left: 20px;
+    width: 230px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:rgb(114, 208, 231);
+    border-style: solid;
+    border-width: 3px;
+}
+
+#presentation:active {
+
+    background-color:rgb(159, 222, 238)
+}
+
+#speech {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 410px;
+    position: absolute;
+    margin-left: 20px;
+    width: 230px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:rgb(114, 208, 231);
+    border-style: solid;
+    border-width: 3px;
+}
+
+#speech:active {
+
+    background-color:rgb(159, 222, 238)
+}
+
+#review {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 480px;
+    position: absolute;
+    margin-left: 20px;
+    width: 230px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    background-color:rgb(114, 208, 231);
+    border-style: solid;
+    border-width: 3px;
+}
+
+#review:active {
+
+    background-color:rgb(159, 222, 238)
+}
+
+
+
+.top {
+  
+    background-color:aquamarine;
+    height: 557px;
+    width:300px;
+    position: absolute;
+    float: left;
+    border-radius: 5px;
+   
+    
+    
+    
+}
+
+#toplabel {
+
+    
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 315px;
+    padding-left: 10px;
+    padding-top: 15px;
+    width: 940px;
+    height: 120px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 35px;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(119, 119, 119, 0.432);
+}
+
+#bottomlabel {
+
+    margin-top: 170px;
+    position: absolute;
+    margin-left: 315px;
+    padding-left: 10px;
+    padding-top: 15px;
+    width: 940px;
+    height: 350px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 35px;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(119, 119, 119, 0.432);
+}
+
+
+
